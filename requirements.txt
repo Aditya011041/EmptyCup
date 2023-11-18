@@ -52,7 +52,7 @@ pyasn1
 pyasn1-modules
 pycodestyle
 pyparsing
-PyQt5
+PyQt5==5.15.10
 PyQt5-Qt5
 PyQt5-sip
 python-dateutil
@@ -64,7 +64,7 @@ rsa
 scikit-learn
 scipy
 screenpen
-sip==4.19.25
+SIP==6.5.0
 six
 sklearn
 SQLAlchemy
