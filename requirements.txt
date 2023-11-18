@@ -64,7 +64,7 @@ rsa
 scikit-learn
 scipy
 screenpen
-sip
+sip==4.19.25
 six
 sklearn
 SQLAlchemy
