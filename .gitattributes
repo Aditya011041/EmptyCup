@@ -1,0 +1,17 @@
+* text=auto
+*.css text
+*.html text
+*.js text
+*.json text
+*.md text
+*.xml text
+*.yml text
+*.yaml text
+*.bat text eol=crlf
+*.sln text eol=crlf
+*.vcproj text eol=crlf
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.exe binary
