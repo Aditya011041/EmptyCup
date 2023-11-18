@@ -64,6 +64,7 @@ rsa
 scikit-learn
 scipy
 screenpen
+sip
 six
 sklearn
 SQLAlchemy
