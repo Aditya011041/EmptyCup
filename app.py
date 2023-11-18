@@ -84,4 +84,5 @@ if __name__ == '__main__':
             print("Sample data added to the database.")
 
     # Run the app
-    app.run(debug=False)
+   app.run(debug=False, host='0.0.0.0') 
+
